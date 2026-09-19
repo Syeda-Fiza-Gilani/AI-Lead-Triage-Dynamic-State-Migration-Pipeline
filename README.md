@@ -34,7 +34,7 @@ Unlike basic lead-capture scripts that only append new rows, this workflow handl
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/n8n-ai-lead-triage.git](https://github.com/YOUR_USERNAME/n8n-ai-lead-triage.git)
+   git clone https://github.com/Syeda-Fiza-Gilani/AI-Lead-Triage-Dynamic-State-Migration-Pipeline.git
    ```
 2. Open your **n8n** dashboard.
 3. Click **Workflows** -> **Import from File** and select `main_workflow.json`.
